@@ -1,0 +1,70 @@
+.error {
+  color: #a94442;
+}
+
+#logout {
+  float: right;
+  padding-right: 5px;
+}
+
+.registerform {
+  margin: auto;
+  width: 80%;
+}
+
+.loginform {
+  margin: auto;
+  width: 80%;
+}
+
+.homepara {
+  margin: 5% auto;
+  width: 70%;
+}
+
+.homebuttons {
+  margin: auto;
+  width: 70%;
+}
+
+.loginbox {
+  background-color: #269abc;
+  border : 1px solid #269abc;
+  border-radius: 5px;
+  color: white;
+  margin: 5% auto;
+  vertical-align: middle;
+  width: 50%;
+
+  p {
+    text-align: center;
+ }
+}
+
+.forgettab {
+  display: none;
+  text-align: right;
+  width: 100%;
+
+input {
+  float: left;
+  margin: 0;
+  margin-top: 1%;
+}
+.text {
+height: 33px;
+text-align: center;
+width: 300px;
+}
+}
+
+.code {
+    display: inline;
+    float: left;
+    height: 33px;
+    width: 5%;
+}
+
+label {
+    display: block;
+}
